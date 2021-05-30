@@ -60,7 +60,7 @@ My work focuses on how mobile robots can better interact with humans in the real
  <br/><br/>
  
 <img align="right" src="assets/images/image_acra.png" width="300"> **Predicting Responses to a Robot's Future Motion using Generative Recurrent Neural Networks**  
-S. Eiffert and S. Sukkarieh, “Predicting Responses to a Robot’s Future Motion using Generative Recurrent Neural Networks,” Proceedings - ARAA Australasian Conference on Robotics and Automation (ACRA), 2019.*  
+*S. Eiffert and S. Sukkarieh, “Predicting Responses to a Robot’s Future Motion using Generative Recurrent Neural Networks,” Proceedings - ARAA Australasian Conference on Robotics and Automation (ACRA), 2019.*  
 [paper](https://arxiv.org/abs/2001.11597)
 
  
