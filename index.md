@@ -73,7 +73,4 @@ S. Eiffert and S. Sukkarieh, “Predicting Responses to a Robot’s Future Motio
 <br/><br/>
 
 <br/><br/>
-
-<br/><br/>
-
  
