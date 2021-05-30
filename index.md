@@ -38,7 +38,7 @@ My work focuses on how mobile robots can better interact with humans in the real
   
  <br/><br/>
  
-<img align="right" src="assets/images/image_case.png" width="300" padding:left=20px> **A Hierarchical Framework for Long-term and Robust Deployment of Field Ground Robots in Large-Scale Farming**  
+<img align="right" src="assets/images/image_case.png" width="300"> **A Hierarchical Framework for Long-term and Robust Deployment of Field Ground Robots in Large-Scale Farming**  
 *S. Eiffert, N. D. Wallace, H. Kong, N. Pirmarzdashti, and S. Sukkarieh, “A Hierarchical Framework for Long-term and Robust Deployment of Field Ground Robots in Large-Scale Farming,” in 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE), pp. 948–954, 2020.*  
 [paper](https://arxiv.org/abs/2001.11597)
 
