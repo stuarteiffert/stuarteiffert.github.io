@@ -28,7 +28,6 @@ My work focuses on how mobile robots can better interact with humans in the real
 *S. Eiffert, H. Kong, N. Pirmarzdashti, and S. Sukkarieh, “Path Planning in Dynamic Environments using Generative RNNs and Monte Carlo Tree Search,” in 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020a, pp. 10 263–10 269.*  
 [code](https://github.com/stuarteiffert/MCTS-GRNN) | [paper](https://arxiv.org/abs/2001.11597) | [video](https://www.youtube.com/watch?v=vBPKiqtCYRU&ab_channel=StuartEiffert)
 
-
   
  <br/><br/>
  
