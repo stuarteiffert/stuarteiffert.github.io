@@ -8,6 +8,7 @@ My work focuses on how mobile robots can better interact with humans in the real
 [Google Scholar](https://scholar.google.com/citations?user=cNPgbCcAAAAJ&hl=en)|[Uni Page](https://www.sydney.edu.au/engineering/about/our-people/research-students/stuart-eiffert-705.html)|[Email](mailto:stuarteiffert@gmailcom)
 
 ![Me](assets/images/me.png)
+<img src="assets/images/me.png" width="500" />
 
 # My Work
 ## Field Robotics
