@@ -14,7 +14,6 @@ My work focuses on how mobile robots can better interact with humans in the real
 </p>
 
 
-
 # My Work
 ## Field Robotics
  
@@ -24,7 +23,7 @@ My work focuses on how mobile robots can better interact with humans in the real
 
 
 **Path Planning in Dynamic Environments using Generative RNNs and Monte Carlo Tree Search**  
-*S. Eiffert, H. Kong, N. Pirmarzdashti, and S. Sukkarieh, “Path Planning in Dynamic Environments using Generative RNNs and Monte Carlo Tree Search,” in 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020a, pp. 10 263–10 269.*  
+<img align="right" src="https://raw.githubusercontent.com/stuarteiffert/RNN-for-Human-Activity-Recognition-using-2D-Pose-Input/master/images/boxing_all_views.gif.png" width="300"> *S. Eiffert, H. Kong, N. Pirmarzdashti, and S. Sukkarieh, “Path Planning in Dynamic Environments using Generative RNNs and Monte Carlo Tree Search,” in 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020a, pp. 10 263–10 269.*  
 [code](https://github.com/stuarteiffert/MCTS-GRNN) | [paper](https://arxiv.org/abs/2001.11597) | [video](https://www.youtube.com/watch?v=vBPKiqtCYRU&ab_channel=StuartEiffert)
 
 **Experimental Evaluation of a Hierarchical Operating Framework for Ground Robots in Agriculture**  
@@ -50,6 +49,7 @@ My work focuses on how mobile robots can better interact with humans in the real
 [paper](https://arxiv.org/abs/2001.11597)
 
 **Human Activity Recognition from 2D pose using RNNs**  
+<img align="right" src="https://raw.githubusercontent.com/stuarteiffert/RNN-for-Human-Activity-Recognition-using-2D-Pose-Input/master/images/boxing_all_views.gif.png" width="500">
 [code](https://github.com/stuarteiffert/RNN-for-Human-Activity-Recognition-using-2D-Pose-Input)
 
  
