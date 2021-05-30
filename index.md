@@ -66,8 +66,8 @@ S. Eiffert and S. Sukkarieh, “Predicting Responses to a Robot’s Future Motio
  
  <br/><br/>
  
-**Human Activity Recognition from 2D pose using RNNs**  
-<img align="right" src="https://raw.githubusercontent.com/stuarteiffert/RNN-for-Human-Activity-Recognition-using-2D-Pose-Input/master/images/boxing_all_views.gif.png" width="300" padding:left=20px> Classification of human activities using a 2D skeletal pose time series dataset and an LSTM RNN. A proof of concept that using a series of 2D poses, rather than 3D poses or a raw 2D images, can produce an accurate estimation of the behaviour of a person or animal  
+<img align="right" src="https://raw.githubusercontent.com/stuarteiffert/RNN-for-Human-Activity-Recognition-using-2D-Pose-Input/master/images/boxing_all_views.gif.png" width="300" padding:left=20px> **Human Activity Recognition from 2D pose using RNNs**  
+Classification of human activities using a 2D skeletal pose time series dataset and an LSTM RNN. A proof of concept that using a series of 2D poses, rather than 3D poses or a raw 2D images, can produce an accurate estimation of the behaviour of a person or animal  
 [code](https://github.com/stuarteiffert/RNN-for-Human-Activity-Recognition-using-2D-Pose-Input)
 
 <br/><br/>
