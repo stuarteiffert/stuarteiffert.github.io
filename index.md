@@ -10,7 +10,6 @@ My work focuses on how mobile robots can better interact with humans in the real
 </p>
 <p align="center"> 
   <a href="https://scholar.google.com/citations?user=cNPgbCcAAAAJ&hl=en">Google Scholar</a> |
-  <a href="https://www.sydney.edu.au/engineering/about/our-people/research-students/stuart-eiffert-705.html">Uni Page</a> |
   <a href="mailto:stuarteiffert@gmailcom">Email</a>
 </p>
 
