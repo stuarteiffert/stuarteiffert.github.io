@@ -17,14 +17,15 @@ My work focuses on how mobile robots can better interact with humans in the real
 # My Work
 ## Thesis
 <img align="right" src="assets/images/thesis_image.png" width="300"> **Simultaneous Prediction and Planning in Crowds using Learnt Models of Social Response**  
-*S. Eiffert, “Simultaneous Prediction and Planning in Crowds using Learnt Models of Social Response,” 2021.*  
+*S. Eiffert, “Simultaneous Prediction and Planning in Crowds using Learnt Models of Social Response,” Doctoral dissertation, University of Sydney, Australia, 2021.*  
 [paper](https://ses.library.usyd.edu.au/handle/2123/25959)
 
+ <br/><br/>
 
 
 ## Field Robotics
  
-<img align="right" src="assets/images/image_FR.png" width="300"> **Resource and Response Aware Path Planning for Long-term Autonomy of Ground Robots in Agriculture**  
+<img align="right" src="assets/images/image_FR.png" width="310"> **Resource and Response Aware Path Planning for Long-term Autonomy of Ground Robots in Agriculture**  
 *S. Eiffert, N. D. Wallace, H. Kong, N. Pirmarzdashti, and S. Sukkarieh, “Resource and Response Aware Path Planning for Long-term Autonomy of Ground Robots in Agriculture,” Accepted for publication in Field Robotics, 2021.*  
 [paper](https://arxiv.org/abs/2105.10690) | [video](https://www.youtube.com/watch?v=DGVTrYwJ304)  
   
