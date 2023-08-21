@@ -3,6 +3,7 @@ layout: default
 ---
 
 I'm a roboticist.  
+
 I completed a PhD at the Australian Centre for Field Robotics, University of Sydney in 2021.  
 My work focuses on how mobile robots can better interact with humans in the real world, merging computer vision perception, motion prediction and dynamic path planning.
 
