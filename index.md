@@ -5,12 +5,16 @@ layout: default
 I'm a roboticist.  
 I completed a PhD at the Australian Centre for Field Robotics, University of Sydney in 2021.  
 My work focuses on how mobile robots can better interact with humans in the real world, merging computer vision perception, motion prediction and dynamic path planning.
+
+I also run corella.ai, applying Generative AI to online games and media creation
+
 <p align="center">
   <img src="assets/images/me.png" width="300" />
 </p>
 <p align="center"> 
   <a href="https://scholar.google.com/citations?user=cNPgbCcAAAAJ&hl=en">Google Scholar</a> |
   <a href="mailto:stuarteiffert@gmailcom">Email</a>
+  <a href="https://corella.ai/">corella.ai</a>  
 </p>
 
 
@@ -82,5 +86,13 @@ Classification of human activities using a 2D skeletal pose time series dataset 
 
 <br/><br/>
 
- 
+ ## corella.ai
+<img align="right" src="assets/images/thesis_image.png" width="300"> **Drawnbetween**  
+DrawnBetween is a simple guessing game between you and a friend. With an AI messing it up.  
+The game utilizes Generative AI models to translate human creativity, leading to some very fun results!  
+Try it out yourself at <a href="https://drawnbetween.com">drawnbetween.com</a>  
+
+
+
+ <br/><br/>
 
