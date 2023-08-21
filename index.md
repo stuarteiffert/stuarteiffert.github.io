@@ -88,8 +88,7 @@ Classification of human activities using a 2D skeletal pose time series dataset 
 
  ## corella.ai
 <img align="right" src="assets/images/thesis_image.png" width="300"> **Drawnbetween**  
-DrawnBetween is a simple guessing game between you and a friend. With an AI messing it up.  
-The game utilizes Generative AI models to translate human creativity, leading to some very fun results!  
+DrawnBetween is a simple guessing game between you and a friend. With an AI messing it up. The game utilizes Generative AI models to translate human creativity, leading to some very fun results!  
 Try it out yourself at <a href="https://drawnbetween.com">drawnbetween.com</a>  
 
 
