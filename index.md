@@ -13,7 +13,7 @@ I also run corella.ai, applying Generative AI to online games and media creation
 </p>
 <p align="center"> 
   <a href="https://scholar.google.com/citations?user=cNPgbCcAAAAJ&hl=en">Google Scholar</a> |
-  <a href="mailto:stuarteiffert@gmailcom">Email</a>
+  <a href="mailto:stuarteiffert@gmailcom">Email</a> |
   <a href="https://corella.ai/">corella.ai</a>  
 </p>
 
@@ -86,7 +86,7 @@ Classification of human activities using a 2D skeletal pose time series dataset 
 
 <br/><br/>
 
- ## corella.ai
+## corella.ai
 <img align="right" src="assets/images/websiteImage1.png" width="300"> **DrawnBetween**  
 DrawnBetween is a simple guessing game between you and a friend. With an AI messing it up. The game utilizes Generative AI models to translate human creativity, leading to some very fun results!  
 Try it out yourself at <a href="https://drawnbetween.com">drawnbetween.com</a>  
