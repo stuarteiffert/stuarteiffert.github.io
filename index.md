@@ -14,8 +14,7 @@ I also run corella.ai, applying Generative AI to online games and media creation
 </p>
 <p align="center"> 
   <a href="https://scholar.google.com/citations?user=cNPgbCcAAAAJ&hl=en">Google Scholar</a> |
-  <a href="mailto:stuarteiffert@gmailcom">Email</a> |
-  <a href="https://corella.ai/">corella.ai</a>  
+  <a href="mailto:stuarteiffert@gmailcom">Email</a>
 </p>
 
 
