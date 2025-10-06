@@ -7,7 +7,6 @@ I'm a roboticist.
 I completed a PhD at the Australian Centre for Field Robotics, University of Sydney in 2021.  
 My work focuses on how mobile robots can better interact with humans in the real world, merging computer vision perception, motion prediction and dynamic path planning.  
 
-I also run corella.ai, applying Generative AI to online games and media creation.
 
 <p align="center">
   <img src="assets/images/me.png" width="300" />
@@ -86,12 +85,13 @@ Classification of human activities using a 2D skeletal pose time series dataset 
 
 <br/><br/>
 
-## corella.ai
+## DrawnBetween
 <img align="right" src="assets/images/websiteImage1.png" width="300"> **DrawnBetween**  
-DrawnBetween is a simple guessing game between you and a friend. With an AI messing it up. The game utilizes Generative AI models to translate human creativity, leading to some very fun results!  
+DrawnBetween was a online multiplayer game built using image generation AI. It was hosted live for two years and had over 1000 games played during that time. 
 Try it out yourself at <a href="https://drawnbetween.com">drawnbetween.com</a>  
 
-
+<p align="center">
+  <a href="another-page.html">See Output Images</a>
+</p>
 
  <br/><br/>
-
