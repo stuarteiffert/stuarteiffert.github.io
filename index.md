@@ -89,6 +89,8 @@ Classification of human activities using a 2D skeletal pose time series dataset 
 <img align="right" src="assets/images/websiteImage1.png" width="300"> **DrawnBetween**  
 DrawnBetween was a online multiplayer game built using image generation AI. It was hosted live for two years and had over 1000 games played during that time. 
 
+The full backend and frontend code for hosting is yourself is available at [github.com/stuarteiffert/drawnbetween](https://github.com/stuarteiffert/drawnbetween) 
+
 Click below to see some of the images that the users created playing the game.
 
 <p align="center">
